@@ -126,6 +126,8 @@ o	Open a new terminal to control the waffel robot and scan the area using lidar 
 
 11-	When the map is created successfully in Rviz, open new terminal and save it using the command rosrun map_server map_saver -f ~/map
 
+![image](https://user-images.githubusercontent.com/81714161/130932146-b6406e3b-e1cc-4eb2-93fe-ac63725c1d59.png)
+
 
 ![image](https://user-images.githubusercontent.com/81714161/130931680-2b47b2fd-c65d-48ee-9e1d-12f5dea43538.png)
 
